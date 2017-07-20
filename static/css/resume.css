@@ -1,0 +1,100 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica,'Microsoft Yahei', 'Hiragino Sans GB', sans-serif;
+}
+
+body{
+	background: #fff;
+	background-position: center center;
+    background-attachment: fixed;
+}
+
+.container_w{
+	width: 100%;
+	background: #eceff1;
+}
+.container{
+	width: 61.8%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.headercontent{
+	margin:0 auto;
+	width:100%;
+	text-align:center;
+}
+
+.itemcontent{
+	float: left;
+	width:78%;
+}
+.content_list{
+	margin-left: 0;
+	padding-left: 0;
+	width: 100%;
+}
+.item{
+	width:100%;
+	margin-left:0%;
+	margin-bottom: 20px;
+	background-color: white;
+}
+
+.title{
+	color: #333;
+    font-family: "Michroma", "Hiragino Sans GB", "Segoe UI Light", "Segoe UI", "Segoe UI WP", "Microsoft Jhenghei", "Microsoft YaHei", "sans-serif", "Times";
+    font-size: 23px;
+    font-weight: bold;
+    padding-left: 1%;
+    
+}
+.article_title{
+	color: #333;
+	text-decoration: none;
+}
+.article_title:hover{
+	color: orange;
+	text-decoration: none;
+}
+
+hr{
+	width: 98%;
+	margin: 0px auto;
+}
+.content_n{
+	padding: 1%;
+}
+
+
+
+.content_attr{
+    font-size: 12px;
+    padding-left: 1%;
+    font-weight: normal;
+    color: #999;
+    line-height: 30px;
+    height: 30px;
+}
+
+
+
+.page_forword{
+
+}
+.prev_page{
+	text-decoration: none;
+	float: left;
+	font-weight: bold;
+	color: #9A397A;
+}
+.next_page{
+	text-decoration: none;
+	float: right;
+	font-weight: bold;
+	color: #9A397A;
+}
+
